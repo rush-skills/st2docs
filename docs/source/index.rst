@@ -12,7 +12,7 @@ Contents:
     start
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
     :caption: Automation Basics
 
     actions
